@@ -38,7 +38,7 @@ Analyze customer behavior and determine which prepaid plan generates more revenu
 
 ## Example Visualization
 
-![Income Distribution](images/Distribución de los ingresos mensuales por plan .png)
+![Income Distribution](images/Distribución de los ingresos mensuales por plan.png)
 
 ## 📌 Conclusion
 Ultimate provides stable and predictable revenue, while Surf generates more volatile but potentially higher overage-based income.
