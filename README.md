@@ -36,9 +36,5 @@ Analyze customer behavior and determine which prepaid plan generates more revenu
 - Statistical testing confirms significant revenue differences between plans.
 - No strong evidence of revenue difference between NY-NJ area and other regions.
 
-## Example Visualization
-
-![Income Distribution](images/distribution_income_plan.png)
-
 ## 📌 Conclusion
 Ultimate provides stable and predictable revenue, while Surf generates more volatile but potentially higher overage-based income.
