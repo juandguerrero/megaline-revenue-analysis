@@ -1,7 +1,7 @@
 # Megaline Revenue Analysis
 
 ## Business Context
-Megaline offers two prepaid plans: Surf and Ultimate. 
+Megaline is a telecommunications operator that offers two prepaid plans: Surf and Ultimate. 
 The marketing department wants to determine which plan generates higher average revenue in order to optimize advertising budget allocation.
 
 ## Objective
